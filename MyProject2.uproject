@@ -16,5 +16,8 @@
 			"Name": "LocationServicesAndroidImpl",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android"
 	]
 }
